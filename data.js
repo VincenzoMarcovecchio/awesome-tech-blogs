@@ -4268,4 +4268,11 @@ module.exports = [
       "Neovim"
     ],
   },
+  {
+    name: 'Vincenzo Marcovecchio',
+    description: 'Junior web developer',
+    url: 'https://vincenzo.codes',
+    twitter: '@_vinny_92',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+}
 ];
